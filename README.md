@@ -1,42 +1,23 @@
-# Jekyll-Bootstrap
+# Beautiful web type
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+There are currently 404 typefaces in the Google web fonts directory. Many of them are awful. But there are also high-quality typefaces that deserve a closer look. Here are examples of these typefaces in action.
 
-## Usage
+## Featured typefaces
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+* [Open Sans](http://www.google.com/webfonts/specimen/Open+Sans)
+* [Gentium Book Basic](http://www.google.com/webfonts/specimen/Gentium+Book+Basic)
+* [Vollkorn](http://www.google.com/webfonts/specimen/Vollkorn)
+* [Lato](http://www.google.com/webfonts/specimen/Lato)
+* [Gravitas One](http://www.google.com/webfonts/specimen/Gravitas+One)
+* [Old Standard TT](http://www.google.com/webfonts/specimen/Old+Standard+TT)
+* [Abril Fatface](http://www.google.com/webfonts/specimen/Abril+Fatface)
+* [PT Sans](http://www.google.com/webfonts/specimen/PT+Sans)
+* [PT Sans Narrow](http://www.google.com/webfonts/specimen/PT+Sans+Narrow)
+* [PT Serif](http://www.google.com/webfonts/specimen/PT+Serif)
 
-## Version
+## View the samples: http://hellohappy.org/beautiful-web-type
 
-0.2.0 - stable and versioned using [semantic versioning](http://semver.org/).
+To view and update the repo locally, start the Jekyll server and watch the Sass files with:
 
-## Contributing 
+    rake server
 
-This repository tracks 2 projects:
-
-- **Jekyll-Bootstrap Framework.**  
-  The framework for which users should clone and build their blog on top of is available in the master branch.
-  
-  To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-  This is very important as it allows me to accept your pull request without having to publish a public version release.
-  
-  Small, atomic Features, bugs, etc.   
-  Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.   
-  Please rebase as often as possible when working.   
-  Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-  
-  For Big Features or major API extensions/edits:   
-  This is the one case where I'll accept pull-requests based off the master branch.
-  This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-  Translation : it might take a bit longer so please be patient! (but sincerely thank you).
- 
-- **Jekyll-Bootstrap Documentation Website.**    
-  The documentation website at <http://jekyllbootstrap.com> is maintained in the gh-pages branch.
-  Please fork and contribute documentation additions to this branch only.
-
-The master and gh-pages branch do not share the same ancestry. Please treat them as completely separate git repositories!
-
-
-## License
-
-[Creative Commons](http://creativecommons.org/licenses/by-nc-sa/3.0/)
