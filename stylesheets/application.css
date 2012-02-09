@@ -129,13 +129,13 @@ footer {
     padding: 0 50px;
     width: 800px; }
   .sample#nietzsche .excerpt {
-    -moz-column-count: 2;
+    -moz-column-count: 1;
     -moz-column-gap: 50px;
-    -webkit-column-count: 2;
+    -webkit-column-count: 1;
     -webkit-column-gap: 50px; }
   .sample#nietzsche h1 {
     color: #222;
-    font: 800 64px/64px "open sans";
+    font: 800 60px/60px "open sans";
     margin: 0 0 32px 0;
     text-align: center;
     text-transform: uppercase;
