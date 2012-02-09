@@ -122,7 +122,7 @@ footer {
         color: #222;
         font-weight: 700; }
 .sample#nietzsche {
-  background: #ef4723;
+  background: #EDEDED;
   padding: 100px 0; }
   .sample#nietzsche .text {
     margin: 0 auto;
@@ -154,7 +154,7 @@ footer {
     text-align: center;
     text-transform: uppercase; }
     .sample#nietzsche h2 span {
-      background: #ef4723;
+      background: #EDEDED;
       padding: 0 20px;
       position: relative;
       top: -10px; }
@@ -163,20 +163,20 @@ footer {
     font: 400 16px/24px "gentium book basic";
     margin: 0; }
 .sample#bringhurst {
-  background: #fcfaf2;
+  background: #3B5998;
   padding: 350px 0 350px 0; }
   .sample#bringhurst .text {
     margin: 0 auto;
     padding: 0 100px;
     width: 410px; }
   .sample#bringhurst h1 {
-    color: #333;
+    color: #FFFFFF;
     font: 400 20px/30px "vollkorn";
     font-style: italic;
     margin: 0 0 10px 0;
     text-indent: -6px; }
   .sample#bringhurst p {
-    color: #c90707;
+    color: #98A9CA;
     font: 400 12px/18px "vollkorn";
     letter-spacing: 1px;
     text-transform: uppercase;
