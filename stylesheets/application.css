@@ -80,8 +80,8 @@ footer {
         color: #000; }
 
 .sample#title {
-  background: #FCFAF2;
-  padding: 300px 0 300px 0; }
+  background: #FFFFFF;
+  padding: 200px 0 300px 0; }
   .sample#title .text {
     margin: 0 auto;
     width: 800px; }
@@ -172,7 +172,7 @@ footer {
   .sample#bringhurst h1 {
     color: #FFFFFF;
     font: 400 20px/30px "vollkorn";
-    font-style: italic;
+    font-style: normal;
     margin: 0 0 10px 0;
     text-indent: -6px; }
   .sample#bringhurst p {
@@ -251,7 +251,7 @@ footer {
     text-transform: uppercase; }
 .sample#darwin {
   background: #ede0ce;
-  padding: 150px 0;
+  padding: 250px 0;
   text-align: center; }
   .sample#darwin .text {
     margin: 0 auto;
@@ -294,12 +294,12 @@ footer {
     margin: 0 auto;
     width: 205px; }
   .sample#camus .excerpt {
-    -moz-column-count: 2;
+    -moz-column-count: 3;
     -moz-column-gap: 50px;
-    -webkit-column-count: 2;
+    -webkit-column-count: 3;
     -webkit-column-gap: 50px;
     margin: 0 auto;
-    width: 450px; }
+    width: 650px; }
   .sample#camus h1 {
     color: #222;
     font: 700 24px/24px "pt sans narrow";
