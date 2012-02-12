@@ -1,6 +1,16 @@
-# Beautiful web type
+# Beautiful Quotes
 
-There are currently 404 typefaces in the Google web fonts directory. Many of them are awful. But there are also high-quality typefaces that deserve a closer look. Here are examples of these typefaces in action.
+Words are powerful. Fonts are beautiful. Designs are memorable.
+Together they create something special.
+
+## Featured Quotes by
+Steve Jobs
+Mark ZuckerBerg
+Albert Einstein
+Dr. Seuss
+Leonard da Vinci
+and more…
+
 
 ## Featured typefaces
 
@@ -14,10 +24,7 @@ There are currently 404 typefaces in the Google web fonts directory. Many of the
 * [PT Sans](http://www.google.com/webfonts/specimen/PT+Sans)
 * [PT Sans Narrow](http://www.google.com/webfonts/specimen/PT+Sans+Narrow)
 * [PT Serif](http://www.google.com/webfonts/specimen/PT+Serif)
+* [Arvo] (http://www.google.com/webfonts/specimen/Arvo)
+* [Tangerine] (http://www.google.com/webfonts/specimen/Tangerine)
 
-## View the samples: http://hellohappy.org/beautiful-web-type
-
-To view and update the repo locally, start the Jekyll server and watch the Sass files with:
-
-    rake server
-
+## Inspired by https://github.com/ubuwaits/beautiful-web-type
