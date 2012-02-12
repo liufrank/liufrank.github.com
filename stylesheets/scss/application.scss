@@ -399,5 +399,44 @@ footer {
       text-indent: 14px;
     }
   }
+
+// Vinci
+// ***************************************************************************
+&#vinci {
+    background: #121212;
+    padding: 300px 0;
+
+    .text {
+        margin: 0 auto;
+        width: 900px;
+    }
+
+    blockquote {
+        color: #fff;
+        font: 300 80px/80px "Arvo";
+        text-align: left;
+
+        span {
+            font-size: 53px;
+
+            span {
+                margin-left: 70px;
+            }
+        }
+
+        footer {
+            color: f4f4f4;
+            font-size: 26px;
+            text-align: right;
+        }
+    }
+
+    blockquote:before {
+        content: open-quote;
+    }
+    blockquote:after {
+        content: close-quote;
+    }
+}
 }
 
