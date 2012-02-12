@@ -340,5 +340,6 @@ footer {
 	
 	.sample#vinci footer {
             color: #9B601A;
-            font: 26px "tangerine";
+            font-family: 'Tangerine', cursive;
+            font-size: 30px;
             text-align: right; }
