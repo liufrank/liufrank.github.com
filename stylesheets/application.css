@@ -336,7 +336,7 @@ footer {
         
     .sample#vinci blockquote {
     	color: #7C1100;
-        font: 300 80px/80px Abril Fatface;
+        font: 300 80px/80px;
         text-align: left; }
 	
 	.sample#vinci footer {
