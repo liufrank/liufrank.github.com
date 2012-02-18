@@ -225,7 +225,7 @@ footer {
     color: #172bae;
     font: 400 20px/30px "vollkorn";
     font-style: italic;
-    margin: -40px 0 0 400px;
+    margin: -35px 0 0 400px;
     text-indent: -16px; }
     .sample#tufte p span {
       font-size: 28px;
@@ -336,7 +336,7 @@ footer {
         
     .sample#vinci blockquote {
     	color: #7C1100;
-        font: 300 80px/80px "open sans";
+        font: 300 80px/80px Abril Fatface;
         text-align: left; }
 	
 	.sample#vinci footer {
