@@ -256,7 +256,7 @@ footer {
   text-align: center; }
   .sample#darwin .text {
     margin: 0 auto;
-    width: 750px; }
+    width: 800px; }
   .sample#darwin h1 {
     color: #161616;
     font: 400 58px/58px "old standard tt";
@@ -336,7 +336,7 @@ footer {
         
     .sample#vinci blockquote {
     	color: #7C1100;
-        font: 300 80px/80px;
+        font: 300 80px/80px "Arvo";
         text-align: left; }
 	
 	.sample#vinci footer {

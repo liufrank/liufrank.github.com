@@ -4,13 +4,12 @@ Words are powerful. Fonts are beautiful. Designs are memorable.
 Together they create something special.
 
 ## Featured Quotes by
-Steve Jobs
-Mark ZuckerBerg
-Albert Einstein
-Dr. Seuss
-Leonard da Vinci
+Steve Jobs, 
+Mark ZuckerBerg, 
+Dr. Seuss,
+Marva N. Collins,  
+Leonard da Vinci, 
 and more…
-
 
 ## Featured typefaces
 
@@ -26,5 +25,6 @@ and more…
 * [PT Serif](http://www.google.com/webfonts/specimen/PT+Serif)
 * [Arvo] (http://www.google.com/webfonts/specimen/Arvo)
 * [Tangerine] (http://www.google.com/webfonts/specimen/Tangerine)
+* [Permanent Marker] (http://www.google.com/webfonts/specimen/Permanent+Marker)
 
 ## Inspired by https://github.com/ubuwaits/beautiful-web-type
